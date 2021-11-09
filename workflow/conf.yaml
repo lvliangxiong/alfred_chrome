@@ -1,0 +1,12 @@
+app:
+  profile: Default
+  limit: 50
+
+bookmark:
+  refresh_interval: 1h # see time.ParseDuration for format
+
+history:
+  refresh_interval: 1h
+
+favicon:
+  refresh_interval: 1h
